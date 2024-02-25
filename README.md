@@ -101,8 +101,11 @@ The .exe file will appear in the same folder where all the other files with the 
 ### GUI
 
 <div align="center">
-  <img  src="src\1.png">
-  <img  src="src\2.png">
-  <img  src="src\3.png">
-  <img  src="src\4.png">
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="src\1.png">
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="src\2.png">
+
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="src\3.png">
+  
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="src\4.png">
 </div>
