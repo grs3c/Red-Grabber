@@ -98,7 +98,7 @@ The .exe file will appear in the same folder where all the other files with the 
 
 <hr  style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;"  noshade=""  size="20"  width="100%">
   
-### GUI
+### Photo Tool
 
 <div align="center">
 <img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="src\1.png">
