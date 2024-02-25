@@ -1,0 +1,15 @@
+# Loggers
+psutil
+cryptography
+requests
+pypiwin32
+wmi
+requests-toolbelt
+# Builders
+colorama
+pyinstaller
+pyuac
+pillow
+pycryptodomex
+customtkinter
+packaging
