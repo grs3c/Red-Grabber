@@ -101,5 +101,8 @@ The .exe file will appear in the same folder where all the other files with the 
 ### GUI
 
 <div align="center">
-    <img src="https://imgur.com/hvDAPlA">
+  <img  src="src\1.png">
+  <img  src="src\2.png">
+  <img  src="src\3.png">
+  <img  src="src\4.png">
 </div>
